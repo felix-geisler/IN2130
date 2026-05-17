@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Results and Models (Can be found in paper)
+.results/
+.models/
