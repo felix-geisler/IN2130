@@ -7,3 +7,6 @@
 # Results and Models (Can be found in paper)
 .results/
 .models/
+
+# Event log
+BPI Challenge 2017.xes
